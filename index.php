@@ -7,10 +7,7 @@
     <link href="css/style.css" rel="stylesheet">
   </head>
   <body>
-    <h1>Hello world!</h1>
-    <p>Dark mode support added!</p>
-    <p>Another update!</p>
-    <p>Another test!</p>
+    <h1><?php echo "PHP support added."; ?></h1>
     <script src="js/main.js"></script>
   </body>
 </html>
